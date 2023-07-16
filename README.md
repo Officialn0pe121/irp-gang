@@ -1,5 +1,5 @@
 # IRP Gang system
-This script allows gangs to have set locations for stashes, managment, and clothing
+This script allows gangs to have set locations for stashes, managment, and clothing<br>
 Service jobs are able to raid stashes
 
 # Install 
